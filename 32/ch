@@ -1,0 +1,2 @@
+#!/bin/bash
+sed -i -e "s/double/float/g" /home/abdlkrim/Documents/mes_bench/fem1d/32/fem1d.c
